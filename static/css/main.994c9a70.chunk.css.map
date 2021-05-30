@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AACA,KACE,oBAAqB,CACrB,iBAAkB,CACnB,QAGC,UAAW","file":"main.994c9a70.chunk.css","sourcesContent":["// Put styles here\n.Tab {\n  display: inline-block;\n  margin-right: 20px;\n}\n\n.active {\n  color: blue;\n}\n"]}
